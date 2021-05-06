@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Estudar programação",
+      "done": false
+    },
+    {
+      "id": 1,
+      "text": "Estudar html",
+      "done": false
+    },
+    {
+      "id": 1,
+      "text": "Estudar Javascript",
+      "done": false
+    },
+    {
+      "id": 1,
+      "text": "Estudar vuejs",
+      "done": false
+    }
+  ]
+}
